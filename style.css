@@ -1,3 +1,25 @@
 h1 {
-    color: red;
+    color: blue;
+}
+
+.login{
+    background-color: rgb(104, 182, 182);
+    width: 40%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.campos-login{
+    margin-top: 0.5cm;
+    margin-bottom: 0.5cm;
+}
+
+body{
+    background-color: white;
+}
+
+form{
+    display: flex;
+    justify-content: center;
 }
